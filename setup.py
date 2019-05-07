@@ -6,7 +6,7 @@ from os import path
 
 setup(
     name="yqt",
-    version="0.0.2",
+    version="0.0.3",
     description="Yuque command line tools",
     author="laixintao",
     author_email="laixintaoo@gmail.com",
