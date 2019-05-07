@@ -1,6 +1,6 @@
 # Yu Que Tools
 
-A command line tools for yuque.com.
+A command line tools for yuque.com. It support both yuque.com and Alibaba's intranet.
 
 ## Install 
 
